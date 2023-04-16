@@ -1,5 +1,5 @@
 # Financial Engineering and Investment Management with Excel
-Microsoft Excel spreadsheets used for pricing securities and derivatives and performing portfolio analysis and optimization.
+Microsoft Excel spreadsheets useful for pricing various securities and derivatives and for portfolio optimization.
 
 ### Calculating Greeks and Pricing Options with BS Model.xlsx
 Calculates greeks based on the Black-Scholes Model, optimimal delta hedging, volatility surfance, and digital option pricing.

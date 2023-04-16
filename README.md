@@ -1,4 +1,4 @@
-# Financial Engineering and Investment Management with Excel
+# Financial Engineering with Excel
 Microsoft Excel spreadsheets useful for pricing various securities and derivatives and for portfolio optimization.
 
 ### Calculating Greeks and Pricing Options with BS Model.xlsx

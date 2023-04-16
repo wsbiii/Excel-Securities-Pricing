@@ -8,4 +8,4 @@ Prices defaultable bonds given the hazard rate and recovery rate.
 Prices forward and future contracts and American and European options using Multi-Period Binomial Models.
 
 ### Pricing Fixed Income Derivatives with Term Structure Lattices.xlsx
-Prices fixed income derivatives, including bond forward and futures, caplets, and swaps and swaption.
+Prices fixed income derivatives, including bond forward and futures, caplets, and swaps and swaptions.

@@ -1,8 +1,11 @@
 # Financial Engineering and Investment Management with Excel
 Microsoft Excel spreadsheets used for pricing securities and derivatives and performing portfolio analysis and optimization.
 
-### Optimizing Portfolio with Mean Variance and Sharpe Ratio
+### Optimizing Portfolio with Mean Variance and Sharpe Ratio.xlsx
 Estimates the mean and variance of stock returns and solves for optimal asset allocation with mean-variance optimization and sharpe optimization.
+
+### Optimizing with Shrinkage and Mean-CVaR.xlsx
+Uses shrinkage method and mean-CVaR for portfolio optimization.
 
 ### Pricing Defaultable Bonds and Credit Default Swaps.xlsx
 Prices defaultable bonds and credit default swaps.

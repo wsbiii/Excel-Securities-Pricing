@@ -1,6 +1,9 @@
 # Financial Engineering and Investment Management with Excel
 Microsoft Excel spreadsheets used for pricing securities and derivatives and performing portfolio analysis and optimization.
 
+### Calculating Greeks and Pricing Options with BS Model.xlsx
+Calculates greeks based on the Black-Scholes Model, optimimal delta hedging, volatility surfance, and digital option pricing.
+
 ### Computing Expected Tranch Losses of CDO.xlsx
 Computes the expected equity, mezzanine, and senior tranch losses with shifting default probabilities of a collatorized debt obligation (CDO).
 

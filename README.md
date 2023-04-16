@@ -1,2 +1,2 @@
-# Excel-Securities-Pricing
-Microsoft Excel files and formulas used for pricing various securities and derivatives.
+# Excel Financial Engineering and Investmetn Management 
+Microsoft Excel spreadsheets used for pricing securities and derivatives and performing portfolio analysis and optimization.

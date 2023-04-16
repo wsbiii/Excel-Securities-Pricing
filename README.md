@@ -1,6 +1,9 @@
 # Financial Engineering and Investment Management with Excel
 Microsoft Excel spreadsheets used for pricing securities and derivatives and performing portfolio analysis and optimization.
 
+### Computing Expected Tranch Losses of CDO.xlsx
+Computes the expected equity, mezzanine, and senior tranch losses with shifting default probabilities of a collatorized debt obligation (CDO).
+
 ### Optimizing Portfolio with Mean Variance and Sharpe Ratio.xlsx
 Estimates the mean and variance of stock returns and solves for optimal asset allocation with mean-variance optimization and sharpe optimization.
 

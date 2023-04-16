@@ -9,3 +9,6 @@ Prices forward and future contracts and American and European options using Mult
 
 ### Pricing Fixed Income Derivatives with Term Structure Lattices.xlsx
 Prices fixed income derivatives, including bond forward and futures, caplets, and swaps and swaptions.
+
+### Pricing Zero Coupon Bonds with the Black Derman Toy Model and Term Lattice.xlsx
+Prices zero coupon bonds and a payer swaption with the BDT model and short term lattice 

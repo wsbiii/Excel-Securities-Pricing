@@ -2,7 +2,7 @@
 Microsoft Excel spreadsheets used for pricing securities and derivatives and performing portfolio analysis and optimization.
 
 ### Pricing Defaultable Bonds and Credit Default Swaps.xlsx
-Prices defaultable bonds and swap rates.
+Prices defaultable bonds and credit default swaps.
 
 ### Pricing Derivates with Multi-Period Binomial Models.xlsx
 Prices forward and future contracts and American and European options using Multi-Period Binomial Models.

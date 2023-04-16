@@ -2,7 +2,7 @@
 Microsoft Excel spreadsheets used for pricing securities and derivatives and performing portfolio analysis and optimization.
 
 ### Optimizing Portfolio with Mean Variance and Sharpe Ratio
-Estimates the mean and variance of stock returns and solves optimal allocation with mean-variance optimzation and sharpe optimization.
+Estimates the mean and variance of stock returns and solves for optimal asset allocation with mean-variance optimization and sharpe optimization.
 
 ### Pricing Defaultable Bonds and Credit Default Swaps.xlsx
 Prices defaultable bonds and credit default swaps.

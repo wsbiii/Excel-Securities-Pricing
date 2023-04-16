@@ -1,7 +1,7 @@
-# Excel Financial Engineering and Investmetn Management 
+# Financial Engineering and Investment Management with Excel
 Microsoft Excel spreadsheets used for pricing securities and derivatives and performing portfolio analysis and optimization.
 
-### Pricing Defaultable Bonds 
+### Pricing Defaultable Bonds.xlsx
 Prices defaultable bonds given the hazard rate and recovery rate.
 
 ### Pricing Derivates with Multi-Period Binomial Models.xlsx
